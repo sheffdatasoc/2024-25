@@ -1,4 +1,4 @@
-# DataSoc Sandbox 2024-25
+# DataSoc 2024-25
 
 Welcome! This is the repository for Sheffield Data Science Society's Sandbox through the academic year 2024/2025.
 
